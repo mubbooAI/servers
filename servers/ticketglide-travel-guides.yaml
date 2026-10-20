@@ -1,7 +1,7 @@
 id: ticketglide-travel-guides
 name: Ticketglide Ticketing Agent
 category: productivity
-description: Search attraction and destination guides, read travel advice, and create TicketGlide search links for tours and day trips.
+description: TicketGlide all-in-one travel comparison and tickets, with guides and tailored search links for attractions, tours and day trips.
 long_description: |
   TicketGlide is an all-in-one travel comparison and tickets platform for attractions, tours and day trips, operated by Mubboo LLC.
   Its public, read-only MCP server lets assistants search published destination and attraction
